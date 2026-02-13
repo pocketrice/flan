@@ -1,5 +1,5 @@
 # blowtorch
-_...for when you have the abstruse and contrived desire to make fichier brûlée._
+_for when you have the abstruse desire to make fichier brûlée..._
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/e060e08c-e349-46d7-9970-d52a7d2433cd" />
 <br><br>
@@ -10,7 +10,7 @@ _...for when you have the abstruse and contrived desire to make fichier brûlée
 
 <br>
 
-*_assorted volatile and tiny tools that tackle (im)practical problems with an all-class palette of languages...!_* ₊˚✩<br>
+*_assorted tiny tools painstakingly (and lovingly!) made by hand that tackle (im)practical problems with an all-class palette of languages...!_* ₊˚✩<br>
 
 - `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone` ... **Perl**
 - `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool` ... **Ruby**
