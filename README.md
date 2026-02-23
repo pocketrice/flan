@@ -1,5 +1,5 @@
 # blowtorch
-_for when you have the abstruse desire to make fichier brûlée..._
+_for when you have the abstruse desire to make fichier brûlée!_
 
 <img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/e060e08c-e349-46d7-9970-d52a7d2433cd" />
 <br><br>
@@ -10,10 +10,10 @@ _for when you have the abstruse desire to make fichier brûlée..._
 
 <br>
 
-*_assorted tiny tools painstakingly (and lovingly!) made by hand that tackle (im)practical problems with an all-class palette of languages...!_* ₊˚✩<br>
+˗ˏˋ _assorted tiny tools painstakingly (and lovingly!) made by hand that tackle impractical problems with an all-class palette of languages_ ˎˊ<br>
 
 - `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone` ... **Perl**
-- `ⓠⓤⓔⓤⓔⓚⓞ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool` ... **Ruby**
+- `ⓕⓛⓞⓞⓟ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool` ... **Ruby**
 - `ⓑⓔⓡⓨⓛ` ... `Schucannons forgivable & scalable server/client rewrite` ... *Bloom?*
 - `ⓓⓘⓢⓚⓞ` ... `subtle OSX "now playing" widget for Music Player Daemon (MPD)` ... **Swift**
 - `ⓚⓐⓡⓣⓞⓢⓗⓚⓐ` ... `no-libs 'lispy' VN/graphics experiment` ... **Common Lisp**
@@ -33,3 +33,4 @@ _for when you have the abstruse desire to make fichier brûlée..._
 - `ⓟⓘⓝⓣⓞ` ... `crowd-sourced color theory` ... *Dezyne/?*
 - `ⓒⓗⓔⓔⓟ` ... `declarative, dynamic, Deleuzian BGM/foley backbone` ... **Prolog/Wren**
 - `ⓐⓛⓔⓣⓗⓔⓘⓐ` ... `spyglass of limitless unconcealment` ... **D**
+- `ⓟⓤⓔⓛⓛⓐ` ... `sparkling desk-sized optical/acoustic FX system` ... _?_
