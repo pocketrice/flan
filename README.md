@@ -1,9 +1,9 @@
-# blowtorch
+# flan
 _for when you have the abstruse desire to make fichier brûlée...!_
 
 ![dreary](https://github.com/user-attachments/assets/8a78050c-6135-4972-8e5e-3af46ed290dc)
 
-˗ˏˋ _assorted tiny tools painstakingly (and lovingly!) made by hand that tackle impractical problems with an all-class palette of languages_ ˎˊ˗<br>
+˗ˏˋ _assorted coarse little tools lovingly made by hand that tackle impractical problems with an all-class palette of languages_ ˎˊ˗<br>
 
 > - `ⓥⓟⓒⓟⓟ` ... `Valve Project Creator (VPC) makescript generator clone` ... **Perl**
 > - `ⓕⓛⓞⓞⓟ` ... `LeSun 11/12/16x LED matrix USB-HID/Bluetooth tool` ... **Ruby**
